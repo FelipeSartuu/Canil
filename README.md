@@ -1,8 +1,3 @@
-# Canil
-
-Projeto desenvolvido com HTML + CSS + Javascript + Typescript + NodeJS 
-
-
 # Canil - Aplicação para Gerenciamento de Pets
 
 Esta é uma aplicação de um canil desenvolvida com Node.js, Mustache e TypeScript. Ela permite visualizar uma lista de pets, incluindo cachorros, gatos e peixes, e realizar filtros e buscas por nome e raça dos pets.
